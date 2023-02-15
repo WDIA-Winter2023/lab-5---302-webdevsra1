@@ -1,0 +1,4 @@
+total 12
+dr-xr-xr-x 3 nobody nogroup 4096 Feb 14 15:51 .
+drwxr-xr-x 3 sandra sandra  4096 Feb 14 15:50 ..
+drwxr-xr-x 2 sandra sandra  4096 Feb 15 04:40 files
